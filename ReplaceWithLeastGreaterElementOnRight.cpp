@@ -1,4 +1,6 @@
-
+/*Given an array A[] of N integers and replace every element with 
+the least greater element on its right side in the array. If there
+are no greater elements on the right side, replace it with -1.*/
 
 #include<bits/stdc++.h>
 using namespace std;
